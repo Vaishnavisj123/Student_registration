@@ -4,6 +4,7 @@ A simple, interactive, and beginner-friendly Student Registration System built u
 This project allows users to Add, View, Search, Update, Delete, and Import/Export student data — all through an easy-to-use web interface.
 
 🌟 Features
+
 ✅ Add Student
 
 Enter student details (ID, Name, Age, Grade)
@@ -43,12 +44,15 @@ Export all students as CSV
 Import and merge students from CSV
 
 🛠️ Tech Stack
+
 Technology	Purpose
 Python	Core programming language
 Streamlit	To build the interactive UI
 Pandas	For CSV import/export and data handling
 HTML/CSS	Custom dark theme styling
+
 🚀 How to Run This Project 
+
 Step 1: Install Python
 
 Make sure Python 3.7+ is installed.
