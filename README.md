@@ -1,9 +1,9 @@
-🎓 Student Registration System
+**🎓 Student Registration System**
 
 A simple, interactive, and beginner-friendly Student Registration System built using Streamlit and Pandas.
 This project allows users to Add, View, Search, Update, Delete, and Import/Export student data — all through an easy-to-use web interface.
 
-🌟 Features
+**🌟 Features**
 
 ✅ Add Student
 
@@ -37,13 +37,13 @@ Remove a student by entering their ID
 
 Shows success or error messages
 
-📂 Import / Export Data
+**📂 Import / Export Data**
 
 Export all students as CSV
 
 Import and merge students from CSV
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Technology	Purpose
 Python	Core programming language
@@ -51,7 +51,7 @@ Streamlit	To build the interactive UI
 Pandas	For CSV import/export and data handling
 HTML/CSS	Custom dark theme styling
 
-🚀 How to Run This Project 
+**🚀 How to Run This Project **
 
 Step 1: Install Python
 
